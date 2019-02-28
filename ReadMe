@@ -1,0 +1,5 @@
+The project is written in C ++ using OOP and STL library. 
+In the project there is a user registration and admin panel.
+The admin has implemented the creation of sections, tests (question and answers).
+The user can pass the selected test and get an assessment. 
+It is also possible to interrupt the test and continue later.
